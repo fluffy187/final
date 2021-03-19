@@ -15,14 +15,6 @@ left: 500px
 color: yellow;
 font-size: 100px;
 }
-.texto1{
-	position: absolute;
-	top: 100px;
-	left: 200px;
-	width: 100px;
-	height: 20px;
-	color: yellow;
-}
 .hijo1{
 	position: absolute;
 	top: 350px;
